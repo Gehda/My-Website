@@ -5,7 +5,7 @@ import { GTableComponent } from './table.component';
     selector: 'my-app',
     template: `
         <h1>This is Gehda´s Website</h1>
-        <g-table></g-table>
+        <g-table title="Here we go!"></g-table>
     `,
     directives:[GTableComponent]
 })
