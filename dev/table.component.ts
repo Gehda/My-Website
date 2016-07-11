@@ -4,7 +4,7 @@ import { Component, OnInit } from 'angular2/core';
     selector: 'g-table',
     template: `<div>Here will follow my Content</div>`
 })
-export class ComponentNameComponent implements OnInit {
+export class GTableComponent implements OnInit {
     constructor() { }
 
     ngOnInit() {
